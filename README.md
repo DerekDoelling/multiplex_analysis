@@ -12,4 +12,4 @@ Expanded Data Handling – Support for multiple sets of target data and PCR resu
 Increased Target Capacity – Extending the app’s capability to handle more than three targets per sample.
 Enhanced Prediction Accuracy – Improving the target prediction algorithm to work effectively with real-world (less-than-perfect) data, as the current model was developed using simulated data.
 
-This app aims to help the biology department in their research endeavors. Feel free to clone and improve the app!
+This app aims to help the Brigham Young University-Idaho biology department in their research endeavors. Feel free to clone and improve the app!
