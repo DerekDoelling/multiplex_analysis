@@ -43,6 +43,8 @@ library(shinyjs)
                tags$img(src = "https://img.shields.io/badge/GitHub-Repo-blue?logo=github", 
                         height = "30px"), target = "_blank")
       ),
+      tags$br(),
+      tags$br(),
       # Import Data tab
       tabPanel(
         "Import Data",
