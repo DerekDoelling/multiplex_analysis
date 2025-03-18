@@ -9,7 +9,6 @@ library(shinyWidgets)
 library(DT)
 library(pander)
 library(shinyjs)
-library(MASS)
 
   ui <- fluidPage(
     tags$head(
