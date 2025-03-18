@@ -5,6 +5,8 @@ account: drock
 server: posit.byui.edu
 hostUrl: https://posit.byui.edu/__api__
 appId: 528
-bundleId: 1035
+bundleId: 1045
 url: https://posit.byui.edu/content/1acc6ba6-a472-479e-8ee5-9aa9bd40be6f/
 version: 1
+asMultiple: FALSE
+asStatic: FALSE

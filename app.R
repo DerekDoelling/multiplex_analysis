@@ -2,17 +2,13 @@
 library(shiny)
 library(shinythemes)
 library(readxl)
-library(ggplot2)
+library(tidyverse)
 library(plotly)
-library(dplyr)
-library(tidyr)
 library(shinyjs)
 library(shinyWidgets)
 library(DT)
 library(pander)
 library(shinyjs)
-library(tidyverse)
-library(readr)
 library(MASS)
 
   ui <- fluidPage(

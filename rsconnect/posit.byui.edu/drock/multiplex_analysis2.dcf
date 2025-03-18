@@ -1,0 +1,12 @@
+name: multiplex_analysis2
+title: multiplex_analysis
+username: drock
+account: drock
+server: posit.byui.edu
+hostUrl: https://posit.byui.edu/__api__
+appId: 532
+bundleId: 1046
+url: https://posit.byui.edu/content/56de15fd-f2ec-4f8f-8a6d-5920c56b9bc6/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

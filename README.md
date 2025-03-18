@@ -13,3 +13,5 @@ Increased Target Capacity – Extending the app’s capability to handle more th
 Enhanced Prediction Accuracy – Improving the target prediction algorithm to work effectively with real-world (less-than-perfect) data, as the current model was developed using simulated data.
 
 This app aims to help the Brigham Young University-Idaho biology department in their research endeavors. Feel free to clone and improve the app!
+
+Also, if you do have trouble deploying the app, try downloading 4.3.2 and republish it. 
