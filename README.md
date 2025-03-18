@@ -1,6 +1,6 @@
 # PCR Multiplex Analysis R Shiny App
 
-This repository contains the R Shiny app for PCR Multiplex Analysis. The app is designed to analyze PCR data and identify specific genetic targets within samples. Given a set of known targets, the app determines which samples contain one or more of these targets.
+This repository https://github.com/DerekDoelling/multiplex_analysis.git contains the R Shiny app for PCR Multiplex Analysis. The app is designed to analyze PCR data and identify specific genetic targets within samples. Given a set of known targets, the app determines which samples contain one or more of these targets.
 
 ## Current Features:
 The app allows users to input known target data along with PCR results for each sample.
