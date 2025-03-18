@@ -13,8 +13,7 @@ library(pander)
 library(shinyjs)
 library(tidyverse)
 library(readr)
-#library(reticulate)
-#reticulate::use_python("C:/Users/derek/AppData/Local/Programs/Python/Python311/python.exe", required=TRUE)
+library(MASS)
 
   ui <- fluidPage(
     tags$head(
