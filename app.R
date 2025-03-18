@@ -39,6 +39,9 @@ library(shinyjs)
         HTML("Column names do not need to be capitalized. Each row should represent the data for a single sample. If the target is unknown, label it as 'Unknown_Sample_X', where X is a number corresponding to the identity of the unknown sample. For example, if you have 3 unknown targets, and each target has 6 samples, label the samples as 'Unknown_Sample_1' for the first set of 6 samples, 'Unknown_Sample_2' for the second set of 6 samples, and 'Unknown_Sample_3' for the third set of 6 samples."),
         tags$br(),
         tags$br(),
+        tags$a(href = "https://github.com/DerekDoelling/multiplex_analysis.git", 
+               tags$img(src = "https://img.shields.io/badge/GitHub-Repo-blue?logo=github", 
+                        height = "30px"), target = "_blank")
       ),
       # Import Data tab
       tabPanel(
